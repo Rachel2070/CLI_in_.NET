@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "cli": {
+      "commandName": "Project",
+      "commandLineArgs": "cli bundle --l all --o kol"
+    }
+  }
+}
